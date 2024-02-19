@@ -1,0 +1,2 @@
+[signing]
+db_file = "/etc/chainflip/data.db"
